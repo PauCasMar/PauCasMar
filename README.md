@@ -10,6 +10,9 @@ Here you'll find some of my projects, ideas, experiments, and everything in betw
 ## 🔧 Technologies I've worked with:
 - Java ☕
 - Python 🐍
+- Ionic
+- Node
+- Angular
 - HTML <>
 - Git & GitHub 🗂️
 - And a whole lot of curiosity...

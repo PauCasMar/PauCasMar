@@ -1,15 +1,14 @@
 ## Hi there! 👋 I'm Paula
-I'm a Software Development, excited to keep learning and growing in the amazing world of tech. 🚀
-
-I recently completed my internship at Accenture, where I had the chance to take my first steps in a professional environment and learn from some incredible people. During that time, I strengthened my skills in Java and Python, and got a real taste of teamwork, problem-solving, and building meaningful solutions. 💡
+I'm a Packaged App Development Associate in Accenture, excited to keep learning and growing in the amazing tech world. 🚀
+Currently working in SAP international projects with an amazing team. 💡
 
 Here you'll find some of my projects, ideas, experiments, and everything in between — it's all part of the journey. I'm constantly learning, and every line of code is a step forward. 🧠✨
 
 <hr>
 
 ## 🔧 Technologies I've worked with:
+- SAP 
 - Java ☕
-- SAP
 - Python 🐍
 - Ionic
 - Node
